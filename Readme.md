@@ -35,4 +35,5 @@ Criado a partir do treinamento da Rocketseat da trilha Discover > NodeJS + EJS: 
 
 ### Layout
 
-![Wiki com detalhes do roadmap web](./.github/tela.jpg)
+![page /home](./.github/tela-1.jpg)
+![page /sobre](./.github/tela-2.jpg)
